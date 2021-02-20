@@ -1,0 +1,2 @@
+# scripy_flask_echars
+基于scripy爬虫、结合echars数据分析展示模型和flask轻量级前端框架的中型工程化项目。使用scrapy爬虫框架（在规定范围内）爬取简书用户的动态信息，存储在mongodb数据库中，方便数据动态更新、查询；echars与数据分析框架pandas、numpy相结合，实现数据分析和动态效果图的效果‘flask作为轻量级的前端框架，与echars相辅，最终呈现出简洁、优雅的页面效果
